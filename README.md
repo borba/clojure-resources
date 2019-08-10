@@ -1,4 +1,4 @@
-# List of useful Clojure resources
+# Clojure resources
 
 - [Official site](https://clojure.org/)
 - My favorite introductory Clojure book is [Living Clojure by Carin Meier](http://shop.oreilly.com/product/0636920034292.do)
