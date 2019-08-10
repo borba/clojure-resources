@@ -6,3 +6,4 @@
 ### Clojure guides
 
 - [Namespace cheat sheet](https://gist.github.com/borba/8f707e3369ee490acbfd056bb90c462e)
+- [Leiningen sample project](https://github.com/technomancy/leiningen/blob/master/sample.project.clj)
